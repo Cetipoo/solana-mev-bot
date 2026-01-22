@@ -5,8 +5,8 @@
 A simple Solana onchain arbitrage bot for arbitrage opportunities. This bot calculate the most optimal trade size between various DEX pools on Solana and executes trades when profitable opportunities are found.
 This repo contains the official released versions. for open source version, check https://github.com/Cetipoo/solana-onchain-arbitrage-bot
 
-Full documentation for the onchain program:
-https://docs.solanamevbot.com/home/onchain-bot/onchain-program
+Full documentation for the bot:
+https://docs.solanamevbot.com/
 
 Example transaction:
 https://solscan.io/tx/2JtgbXAgwPib9L5Ruc5vLhQ5qeX5EMhVDQbcCaAYVJKpEFn22ArEqXhipu5fFyhrEwosiHWzRUhWispJUCYyAnKT
